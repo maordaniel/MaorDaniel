@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Maor Daniel</h1>
 <h3 align="center">Full Stack Developer</h3>
-<br>
+
+<p align="center">
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
-  <br>
+  <p>
+      
 <h4>
     <p>
         Owner and developer of LF bots in Telegram.
