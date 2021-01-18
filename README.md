@@ -2,11 +2,20 @@
 <h3 align="center">Full Stack Developer</h3>
 
 <h4>
-    <a href="https://t.me/LFJunior1">
+    <p>
         Owner and developer of LF bots in Telegram.
+    </p>
+    <a href="https://t.me/LFJunior1">
+        LF-J
+    </a>
+    <br/>
+    <a href="https://t.me/joinchat/DVhxn1fPpHxAUwBTiXZ8yg">
+        LF-PM
     </a>
 </h4>
+
 <br/>
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
