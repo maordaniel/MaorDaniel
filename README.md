@@ -7,7 +7,7 @@
       
 <h4>
     <p>
-        Owner and developer of LF bots in Telegram.
+        Owner and developer of LF bots on Telegram.
     </p>
     <a href="https://t.me/LFJunior1">
         LF-J
