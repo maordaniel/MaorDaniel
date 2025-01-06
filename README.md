@@ -1,5 +1,5 @@
 <h1 align="center">Maor Daniel</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Front End Developer</h3>
 
 <p align="center">
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
